@@ -15,7 +15,7 @@ const l2Wallet = new Wallet(walletPrivateKey, l2Provider)
 /**
  * Set the amount to be withdrawn from L2 (in wei)
  */
-const ethFromL2WithdrawAmount = parseEther('0.000001')
+const ethFromL2WithdrawAmount = parseEther('1')
 
 const main = async () => {
   await arbLog('Withdraw Eth via Arbitrum SDK')

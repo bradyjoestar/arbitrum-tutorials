@@ -24,7 +24,7 @@ const l2Wallet = new Wallet(walletPrivateKey, l2Provider)
 /**
  * Set the amount to be deposited in L2 (in wei)
  */
-const ethToL2DepositAmount = parseEther('0.0001')
+const ethToL2DepositAmount = parseEther('10')
 
 const main = async () => {
   await arbLog('Deposit Eth via Arbitrum SDK')
