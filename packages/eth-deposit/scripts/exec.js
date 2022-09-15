@@ -46,11 +46,11 @@ const main = async () => {
       "chainID": 412346,
       "confirmPeriodBlocks": 20,
       "ethBridge": {
-        "bridge": "0xcaf1ded82e70c5af3d6585a1dcc3ff8f2ea42794",
-        "inbox": "0xc2c8f6ec5fcb9a9aeea4116a521594bf40ab6408",
-        "outbox": "0x86B30E87F64025085c7853E64355B97DE5D13393",
-        "rollup": "0x71b4f5764d732ddd5e34a9d60b7bf9f87905e7ed",
-        "sequencerInbox": "0x8cfc0044df41af12d4cbb6fd1c71aceafa503900"
+        "bridge": "0xb16a6431db6e5c1b03a4db33fea51ec5c0405a92",
+        "inbox": "0x5613ed4ee0b64ea8e0632227cbcf857665db7ffe",
+        "outbox": "0x1A82de59Ec957D497A7211C28d23149F348459b5",
+        "rollup": "0xe75c4f8d357bdfc8b80a85566f79fc1ed25b264e",
+        "sequencerInbox": "0x7248bc6769d2b5164af15fa117f16d0f4c0392c3"
       },
       "explorerUrl": "",
       "isArbitrum": true,
